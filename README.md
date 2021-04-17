@@ -1,5 +1,5 @@
 # **pandas-challenge**
-# *Submitted by Nathan Putnam 
+# *Submitted by Nathan Putnam* 
 
 
 ## **Customer Age Summary** 
@@ -13,7 +13,10 @@ We can also see that the age group 40+ had the least amount of purchases with on
 We can see that males have almost 6x more purchases than females.
 Although males purchased more items, females have a higher average purchase price per item. 
 
-*Recommendation:* Spend resources to determine how to obtain more female users due to their higher average purchase price. 
+**Recommendation:** Spend resources to determine how to obtain more female users due to their higher average purchase price. 
 
 ## *Gender Summary** 
 ![Most Popular Items](Images/most_popular_summary.png)
+Here we can determine which items sold the most
+
+**Recommendation:** Detecate resources to determine why these top 5 items were the most sold
