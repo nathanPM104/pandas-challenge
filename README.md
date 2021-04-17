@@ -1,4 +1,4 @@
-# **pandas-challenge**
+# **Pandas-Challenge**
 # *Submitted by Nathan Putnam* 
 
 
